@@ -25,7 +25,7 @@ In this demo, we'll showcase how to create a simple Spring Cloud Task applicatio
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/iammahesh123/spring-security-CSRF-demo.git
+git clone https://github.com/iammahesh123/spring-cloud-task-demo.git
 ```
 2. Navigate to the project directory:
  ```bash
